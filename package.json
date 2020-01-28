@@ -17,6 +17,7 @@
     "mime": "^2.4.4",
     "set-cookie-parser": "^2.4.1",
     "tld": "0.0.2"
+    "connect-wwwhisper": "*",
   },
   "devDependencies": {
     "concat-stream": "^2.0.0",
